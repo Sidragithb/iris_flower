@@ -1,27 +1,26 @@
 # iris_flower
-# Chapter 1: INTRODUCTION
 
-## 1.1 Introduction
+##  Introduction
 
-### 1.1. Machine Learning
+###  Machine Learning
 
 Machine learning is the process of feeding a machine enough data to train it to predict possible outcomes using algorithms. The more processed or useful data is fed to the machine, the more efficient it becomes. When the data is complicated, it learns the data and builds a prediction model. It is stated that the more data there is, the better the model will be, and the higher the accuracy will be. There are many ways of machine learning, including supervised learning, unsupervised learning, and reinforcement learning.
 
-### 1.2. Supervised Learning
+###  Supervised Learning
 
 In supervised learning, the machine learning model learns through the features and labels of the object. Supervised learning uses labeled data to train the model. Here, the machine knows the features of the object and the labels associated with those features, or we can say that supervised learning uses a set of data where the labels or the desired outcomes are already known. It allows for predictions about unseen or future data.
 
-### 1.3 Classification
+###  Classification
 
 Classification is one of the major data mining processes, which maps data into predefined groups. It comes under the supervised learning method, as the classes are determined before examining the data. For applying all approaches to performing classification, it is required to have some knowledge of the data. Usually, knowledge of the data helps to find some unknown patterns. The aim of pattern classification is to build a function that provides the output of two or more classes from the input feature. The dataset for this project is carried out from the UCI Machine Learning Repository. The Iris flower data set was introduced by the British statistician and biologist Ronald Fisher, which is why it is also known as Fisher's Iris data set. It is a multivariate data set. The use of multiple measurements in taxonomic problems is an example of linear discriminant analysis. The expectation from mining the iris data set is to discover patterns from examining the sepal and petal size of the iris plant and how the prediction was made from analyzing the pattern to predict the class of the iris plant. In upcoming years, using classification and pattern recognition, other flowers can be individually distinguished from each other. It is unmistakably expressed that the type of relationship being mined using the iris dataset would be a classification model.
 
-## 1.4. HARDWARE REQUIREMENTS:
+##  HARDWARE REQUIREMENTS:
 
 - Processor – i3
 - 2 GB RAM
 - Memory – 5 GB
 
-## 1.5. SOFTWARE AND LIBRARIES REQUIREMENTS:
+## SOFTWARE AND LIBRARIES REQUIREMENTS:
 
 - Python 3.7.2
 - Jupyter Notebook
